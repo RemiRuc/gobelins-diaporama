@@ -290,6 +290,10 @@ body {
    margin: 10px 0px;
  }
 
+ a.little{
+   font-size: .5em;
+ }
+
  .row p{
    margin: 10px 0px;
  }
@@ -301,4 +305,8 @@ body {
 
  .cache{
   background-color: rgba(0,0,0,0.5);
+ }
+
+ .row .mid{
+   font-size: 0.8em;
  }
