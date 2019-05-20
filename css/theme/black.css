@@ -290,6 +290,10 @@ body {
    margin: 10px 0px;
  }
 
+ .row .mid{
+   font-size: .8em;
+ }
+
  .row p{
    margin: 10px 0px;
  }
